@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#DEF81D",
+        "my-primary": "#FFFFFF",
         "wd-white": "#FFFFFF",
         "wd-grey": "#999999",
         "wd-darkgrey": "#2D2D2D",
